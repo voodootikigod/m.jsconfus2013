@@ -196,8 +196,8 @@ var schedule = [{
   "title": "Live Recompilation of Running JS",
   "description": "Recompilation of running JS without having to restart it. It's like Bret Victors talk, when he demo's rewriting code (http://vimeo.com/36579366 , for example at 5:45). I'd like to show a working proof of concept of this as well as demo other parts of his talk that are up'n'running, and how you'd go about coding something like that.So a crazy nerdcore JS rewriting and tooling talk. Guaranteed to blow peoples minds.",
   "speaker": {
-    "name": "Peter Van Der Zee",
-    "description": "He's the organizer of the yearly js1k competition. Wrote a static analysis tool for JS (ZeonJS) and a JS parser (v2 is currently the fastest! ;). Passionate about writing tools and parsers with/for/in JS, as well as nerdcore JS on the language level.Happily married. Loves pretty much any kind of games, be it digital or\n\t\t\tanalogue. Seriously, go play some analogue games with him."
+    "name": "Peter van der Zee",
+    "description": "He's the organizer of the yearly js1k competition. Wrote a static analysis tool for JS (ZeonJS) and a JS parser (v2 is currently the fastest! ;). Passionate about writing tools and parsers with/for/in JS, as well as nerdcore JS on the language level. He currently works at Surfly, building a service that's like remote desktop except in the browser. Happily married. Loves pretty much any kind of games, be it digital or analogue. Seriously, go play some analogue games with him."
   },
   "location": "Yammer Track",
   "starting_at": "2013/05/31 12:00:00",
