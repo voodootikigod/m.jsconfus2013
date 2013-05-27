@@ -330,11 +330,11 @@ var schedule = [{
   "ending_at": "2013/05/29 11:30:00"
 }, {
   "uid": "JSCONF2013-B130",
-  "title": "Your Function is Showing.",
-  "description": "As developers we spend quite a bit of time setting up routing between client and server components.  With the advent of node and simple control flow mechanisms such as promises, we have the ability to easily expose JavaScript functions as remote procedure calls to the client.   These simple patterns and helper libraries enable us to build extremely fast backends for our modern web applications.",
+  "title": "Post Modern Game Input Devices",
+  "description": "Browsers have become toy boxes full of fun things to play with. Some of the most fun had is when using HTML5 APIs to enable new forms of interaction between input hardware and the browser for games and other types of dynamic applications.",
   "speaker": {
     "name": "Luis Montes",
-    "description": null
+    "description": "Escaped the corporate enterprise java life to co-found Iced Dev.  Now working with Javascript, Node, and an open source HTML5 game engine called FrozenJS."
   },
   "location": "SpringSource Track",
   "starting_at": "2013/05/29 11:30:00",
